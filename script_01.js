@@ -45,6 +45,8 @@
 
 /***** 03a  Konstanten *******/
 
-const test = "hallo";
-// test ="hi";
-console.log(test);
+// const test = "hallo";  // Variable mit Konstanten
+// // test ="hi";  // KEINE neue Zuweisung zur LZ möglich --> Fehler
+// console.log(test);
+
+
